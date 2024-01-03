@@ -18,15 +18,15 @@ Learn how to interact with both the AVR and IoT modules for effective light inte
 
 ### AVR Module Usage
 
-1. [Power on the AVR Module]
-2. [Observe the 16x2 LCD for real-time light intensity readings]
-3. [Monitor the Green and Red LEDs based on ambient light conditions]
+1. Power on the AVR Module
+2. Observe the 16x2 LCD for real-time light intensity readings
+3. Monitor the Green and Red LEDs based on ambient light conditions
 
 ### IoT Module Usage
 
-1. [Receive light intensity readings on your smartphone using MQTT]
-2. [Access historical data in the Firebase Realtime Database]
-3. [Visualize and analyze light intensity trends on ThingSpeak Cloud]
+1. Receive light intensity readings on your smartphone using MQTT
+2. Access historical data in the Firebase Realtime Database
+3. Visualize and analyze light intensity trends on ThingSpeak Cloud
 
 ## Contributors
 
