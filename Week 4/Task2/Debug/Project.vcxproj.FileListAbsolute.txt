@@ -1,0 +1,3 @@
+D:\3rd Semester\COAL\Week 2\Project32_VS2022\Debug\Project.exe
+D:\3rd Semester\COAL\Week 3\Project32_VS2022\Debug\Project.exe
+D:\3rd Semester\COAL\Week 4\Task2\Debug\Project.exe
