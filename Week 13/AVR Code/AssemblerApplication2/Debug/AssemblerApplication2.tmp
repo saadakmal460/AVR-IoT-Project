@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\3rd Semester\COAL\Week 13\AssemblerApplication2\AssemblerApplication2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\3rd Semester\COAL\Week 13\AssemblerApplication2\AssemblerApplication2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:\3rd Semester\COAL\Week 13\AssemblerApplication2\AssemblerApplication2\delay.inc</FILE>
+  <FILE>D:\3rd Semester\COAL\Week 13\AssemblerApplication2\AssemblerApplication2\1602_LCD.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\3rd Semester\COAL\Week 13\AssemblerApplication2\AssemblerApplication2\Debug\AssemblerApplication2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication2.map</FILE>
+  <FILE>AssemblerApplication2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <L1><FILE>D:\3rd Semester\COAL\Week 13\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>48</LINE></L1>
+  <loop><FILE>D:\3rd Semester\COAL\Week 13\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>36</LINE></loop>
+  <RED_ON_LCD><FILE>D:\3rd Semester\COAL\Week 13\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>55</LINE></RED_ON_LCD>
+  <GREEN_ON_LCD><FILE>D:\3rd Semester\COAL\Week 13\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>85</LINE></GREEN_ON_LCD>
+ </LABELS>
+</ASSEMBLER_INFO>
